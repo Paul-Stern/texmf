@@ -1,0 +1,8 @@
+This is a repo for my custom classes.
+On odroid it has a path [[~/texmf/tex/latex/local]]
+* Errors
+** 
+Gives errors on build, but no problems seen.
+
+path: [[~/4d8c8994-70e4-4174-88e2-7bf59019245b/home/work/teaching/logos/python/classes/05/1111/]]
+
