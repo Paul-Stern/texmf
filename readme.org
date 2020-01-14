@@ -6,7 +6,7 @@ This is still an untitled class for general use
 This class is used for typesetting songs' lyrics
 * moon
 This class is used for creating moon phase calendars
-* Errors
+* COMMENT Errors
 ** 
 Gives errors on build, but no problems seen.
 
