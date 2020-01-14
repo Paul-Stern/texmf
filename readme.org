@@ -1,5 +1,11 @@
 This is a repo for my custom classes.
 On odroid it has a path [[~/texmf/tex/latex/local]]
+* custom
+This is still an untitled class for general use
+* lyrics
+This class is used for typesetting songs' lyrics
+* moon
+This class is used for creating moon phase calendars
 * Errors
 ** 
 Gives errors on build, but no problems seen.
