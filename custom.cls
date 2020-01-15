@@ -2,9 +2,16 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{custom}
 \RequirePackage{fontspec}
+\RequirePackage{graphicx}
 \RequirePackage{polyglossia}
+\RequirePackage{hyperref}
+\RequirePackage[normalem]{ulem}
 
-\setmainfont{FiraGO}
+\setmainfont{Source Serif Pro}
+
+\setmonofont{Source Code Variable}
+
+%% \setmainfont{FiraGO}
 \setmainlanguage{russian}
 \setotherlanguages{english}
 
